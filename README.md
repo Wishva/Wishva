@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Wishva Weerasekara</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Wishva Weerasekara</h1>
 - 🔭 I’m currently working on **web development**
 
 - 🌱 I’m currently learning **React.js, Vue.js ...**
