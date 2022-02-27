@@ -26,7 +26,7 @@
 
 
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wishva&theme=maroongold" alt="wishva" /></p>
+
 
 <table>
   <tr>
@@ -36,7 +36,12 @@
     <td>
       <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=wishva&show_icons=true&locale=en&theme=bear" alt="wishva" /></p>
     </td>
-        
+  </tr>
+  
+  <tr>
+    <td colspan='2'>
+      <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wishva&theme=maroongold" alt="wishva" /></p>
+    </td>
   </tr>
   
   </table>
