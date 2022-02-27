@@ -1,6 +1,4 @@
 <h1 align="center">Hello 👋, I'm Wishva Weerasekara</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wishva" alt="wishva" /></a> </p>
-
 - 🔭 I’m currently working on **web development**
 
 - 🌱 I’m currently learning **React.js, Vue.js ...**
@@ -25,5 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wishva&show_icons=true&locale=en&layout=compact" alt="wishva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wishva&show_icons=true&locale=en" alt="wishva" /></p>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wishva&" alt="wishva" /></p>
