@@ -23,7 +23,7 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=wishva&show_icons=true&locale=en&layout=compact&theme=dracula" alt="wishva" /></p>
 
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=wishva&show_icons=true&locale=en" alt="wishva" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=wishva&show_icons=true&locale=en&theme=bear" alt="wishva" /></p>
 
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wishva&" alt="wishva" /></p>
