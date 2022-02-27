@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wishva&show_icons=true&locale=en" alt="wishva" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wishva&" alt="wishva" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wishva&" alt="wishva" /></p>
